@@ -1,10 +1,10 @@
 # Profile
 普通の専門学校生
 # やってること
-#### C#
+### C#
 ・Windowsデスクトップアプリ制作
-#### HTML,CSS,PHP,JavaScript
+### HTML,CSS,PHP,JavaScript
 ・Webサイト制作
-#### Dart
+### Dart
 ・Flutterを使用したスマートフォンアプリ制作
 
