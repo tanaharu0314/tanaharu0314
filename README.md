@@ -6,5 +6,6 @@
 ### HTML,CSS,PHP,JavaScript
 ・Webサイト制作
 ### Dart
-・Flutterを使用したスマートフォンアプリ制作
-
+・Flutterを使用したスマートフォンアプリ
+### Python 
+・デスクトップアプリ/自動化ツール
